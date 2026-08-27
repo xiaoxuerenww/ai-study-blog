@@ -1,0 +1,6 @@
+title: AI Study Blog
+description: Notes on AI, ML systems, LLMs, and interview prep.
+theme: minima
+url: "https://ai-study-blog.github.io"
+plugins:
+  - jekyll-feed
