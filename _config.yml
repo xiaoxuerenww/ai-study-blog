@@ -2,6 +2,6 @@ title: AI Study Blog
 description: Notes on AI, ML systems, LLMs, and interview prep.
 theme: minima
 url: "https://xiaoxuerenww.github.io"
-baseurl: "/ai-study-blog.github.io"
+baseurl: "/ai-study-blog"
 plugins:
   - jekyll-feed
